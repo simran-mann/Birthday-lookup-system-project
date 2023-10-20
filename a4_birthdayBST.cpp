@@ -1,6 +1,3 @@
-//Simran Mann
-//301542808
-//sma308@sfu.ca
 
 #include "a4_birthdaylib.hpp"
 #include "a4_birthdayBST.hpp"
