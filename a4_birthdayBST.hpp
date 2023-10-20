@@ -1,5 +1,3 @@
-
-
 #ifndef A4_BIRTHDAYBST_HPP
 #define A4_BIRTHDAYBST_HPP
 
