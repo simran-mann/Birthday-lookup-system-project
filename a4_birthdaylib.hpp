@@ -1,6 +1,3 @@
-//Simran Mann
-//301542808
-//sma308@sfu.ca
 
 #ifndef A4_BIRTHDAYLIB_HPP
 #define A4_BIRTHDAYLIB_HPP
