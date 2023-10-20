@@ -11,8 +11,6 @@ int main(){
     cout<<"===================================================="<<endl; 
     cout<<"===========Famous Birthdays Lookup System==========="<<endl;
     cout<<"=====================Simran Mann===================="<<endl;
-    cout<<"=====================301542808======================"<<endl;
-    cout<<"=====================sma308@sfu.ca=================="<<endl;;
     cout<<"===================================================="<<endl; 
 
     int input=0; //initialize a vairable to keep track of the users option 
